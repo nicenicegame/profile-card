@@ -27,8 +27,8 @@ main {
     overflow: hidden;
     background-color: white;
     border-radius: 15px;
-    height: 50vh;
-    width: 30vw;
+    height: 55vh;
+    width: 25vw;
     position: relative;
     z-index: 2;
 }
@@ -85,7 +85,7 @@ main {
 }
 
 .card-footer {
-    border-top: 0.5px solid #010101;
+    border-top: 0.1px solid #010101;
     text-align: center;
     height: 25%;
     display: flex;
@@ -112,7 +112,6 @@ main {
     }
     .card{
         width: 80vw;
-        height: 60vh;
     }
     .bg-1{
         top: 0;
